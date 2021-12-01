@@ -34,5 +34,5 @@ for (let i = 0; i <= 200; i++) {
   c1.acelerar();
 }
 
-c1.velocidade = 55;
-console.log(c1);
+c1.velocidade = 55; //Entrando no Setter
+console.log(c1); //Entrando no Getter
